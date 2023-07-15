@@ -10,8 +10,8 @@ process.on("uncaughtException", (err) => {
   process.exit(1);
 });
 //setting up the config file
-// if (process.env.MODE_ENV !== "PRODUCTION")
-require("dotenv").config({ path: "backend/config/config.env" });
+if (process.env.MODE_ENV !== "PRODUCTION")
+  require("dotenv").config({ path: "backend/config/config.env" });
 // dotenv.config({ path: "backend/config/config.env" });
 
 // connecting to databse
