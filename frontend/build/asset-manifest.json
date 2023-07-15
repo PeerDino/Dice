@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b2ca12a0.css",
+    "main.js": "/static/js/main.0cbed249.js",
+    "static/media/smi_logo.png": "/static/media/smi_logo.e59d14c5084cbbdc35d4.png",
+    "index.html": "/index.html",
+    "main.b2ca12a0.css.map": "/static/css/main.b2ca12a0.css.map",
+    "main.0cbed249.js.map": "/static/js/main.0cbed249.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2ca12a0.css",
+    "static/js/main.0cbed249.js"
+  ]
+}
